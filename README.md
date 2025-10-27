@@ -1,6 +1,17 @@
 # Principle of the project
 I plan on building a toolbox for loudspeaker measurements
 
+## Signal design
+### Single tones
+#### Pure sine wave
+#### Stepped sines
+
+### Multitone signals
+
+### Swept sines
+#### Linear
+#### Logarithmic
+
 ## Oscilloscope
 
 ## Spectrum analyser
